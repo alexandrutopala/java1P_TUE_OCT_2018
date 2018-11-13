@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Produs
+comment1.params=nume\ pret\ stoc
+comment1.target=Produs(java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getNume()
+comment3.params=nume
+comment3.target=void\ setNume(java.lang.String)
+comment4.params=
+comment4.target=double\ getPret()
+comment5.params=pret
+comment5.target=void\ setPret(double)
+comment6.params=
+comment6.target=int\ getStoc()
+comment7.params=stoc
+comment7.target=void\ setStoc(int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
