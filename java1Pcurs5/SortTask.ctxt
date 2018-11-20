@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SortTask
+comment1.params=list
+comment1.target=SortTask(java.util.List)
+comment2.params=
+comment2.target=java.util.List\ compute()
+numComments=3
